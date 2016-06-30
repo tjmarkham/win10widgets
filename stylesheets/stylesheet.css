@@ -517,6 +517,24 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
+.video-container {
+    position: relative;
+    padding-bottom: 50.7%;
+	left:5%;
+	width:90%;
+	overflow: hidden;
+	background: url(../images/screenshot.png);
+	background-size: 100% 100%;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+	left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 a.buttonBottom {
   position: absolute;
   top: 90px;
