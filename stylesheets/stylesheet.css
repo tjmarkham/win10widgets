@@ -433,7 +433,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: #fafafa;
 }
 
 p {
@@ -450,8 +450,8 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: linear-gradient(120deg, #0078cf, #002050);
   border-bottom: solid 1px #275da1;
 }
 
@@ -473,7 +473,7 @@ header h2 {
   font-size: 26px;
   font-weight: normal;
   line-height: 1.3;
-  color: #9ddcff;
+  color: #fff;
   letter-spacing: 0;
 }
 
@@ -510,18 +510,35 @@ aside#sidebar {
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
   font-weight: bold;
+  text-align: center;
 }
 
 #downloads {
   margin-bottom: 40px;
 }
 
+a.buttonBottom {
+  position: absolute;
+  top: 90px;
+  right: 20px;
+  color: #fff;
+}
+
+a.buttonBottom:hover { 
+    text-decoration: underline;
+}
+
+a.button:hover { 
+    color: #e0e0e0;
+}
+
 a.button {
   width: 134px;
   height: 58px;
-  padding-top: 22px;
+  padding-top: 11px;
+  padding-bottom: 10px;
   padding-left: 68px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 23px;
   line-height: 1.2;
   color: #fff;
@@ -532,17 +549,40 @@ a.button small {
 }
 header a.button {
   position: absolute;
-  top: 0;
+  top: 5px;
   right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
 aside a.button {
   display: block;
-  width: 138px;
-  padding-left: 64px;
-  margin-bottom: 20px;
+  height: 28px;
+  width: 202px;
+  padding-left: 0px;
+  margin-bottom: 10px;
   font-size: 21px;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  text-align: center;
+}
+
+.subscribeButton {
+  background: transparent url(../images/side-buttons/subscribe.png) 0 0 no-repeat;
+}
+.donateButton {
+  background: transparent url(../images/side-buttons/donate.png) 0 0 no-repeat;
+}
+.youtubeButton {
+  background: transparent url(../images/side-buttons/youtube.png) 0 0 no-repeat;
+}
+.fbButton {
+  background: transparent url(../images/side-buttons/fb.png) 0 0 no-repeat;
+}
+.tweetButton {
+  background: transparent url(../images/side-buttons/tweet.png) 0 0 no-repeat;
+}
+.pinButton {
+  background: transparent url(../images/side-buttons/pin.png) 0 0 no-repeat;
+}
+.gplusButton {
+  background: transparent url(../images/side-buttons/gplus.png) 0 0 no-repeat;
 }
 
 code, pre {
@@ -614,7 +654,7 @@ form {
 #main-content h1 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 2.8em;
   font-weight: normal;
   color: #474747;
@@ -631,7 +671,7 @@ form {
 
 #main-content h2 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
   color: #474747;
@@ -647,7 +687,7 @@ form {
 #main-content h3 {
   margin-top: 24px;
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
   color: #474747;
@@ -663,7 +703,7 @@ form {
 
 #main-content h4 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
   color: #474747;
@@ -679,7 +719,7 @@ h4:before {
 
 #main-content h5 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
   color: #474747;
   text-indent: 3px;
@@ -693,7 +733,7 @@ h5:before {
 
 #main-content h6 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
   color: #474747;
   text-indent: 3px;
@@ -824,6 +864,12 @@ footer a:hover {
   }
   header h2 {
     font-size: 24px;
+  }
+  a.buttonBottom {
+    position: relative;
+    top: 4px;
+    left: 12px;
+    color: #fff;
   }
   header a.button {
     position: relative;
