@@ -1,0 +1,207 @@
+; ------------------------------------------------------------------------
+;    _       ___      _______     _       ___     __           __
+;   | |     / (_)___ /  / __ \   | |     / (_)___/ /___  ___  / /______
+;   | | /| / / / __ \/ / / / /   | | /| / / / __  / __ \/ _ \/ __/ ___/
+;   | |/ |/ / / / / / / /_/ /    | |/ |/ / / /_/ / /_/ /  __/ /_(__  ) 
+;   |__/|__/_/_/ /_/_/\____/     |__/|__/_/\__,_/\__, /\___/\__/____/
+;                                               /____/
+;
+;	Win10 Widgets for Rainmeter - Welcome (intro)
+;		Author  - TJ Markham, http://tjmarkham.com
+;		Website - http://win10widgets.com
+;		Donate  - http://donate.win10widgets.com
+;
+; ------------------------------------------------------------------------
+
+NOTICE:
+
+	Thanks for taking the time to read this! This document is meant to 
+	provide you with a comprehensive introduction to your new desktop. 
+
+	For most people, the brief intro video (found here: 
+	http://intro.win10widgets.com/) can be consumed quicker and is a more 
+	useful experience. However, if you don't have a stable internet 
+	connection or simply prefer to read, look ahead to learn more about 
+	what Win10 Widgets can do for you!
+	
+Index:
+
+	About
+	Welcome Widget
+		Updates
+		Donate
+		Share
+	Adding/Removing Widgets
+	Changing Widget Size
+	Positioning Widgets
+	Widget Options
+	Special Widgets
+	
+About:
+
+	Your desk has more on it than a bunch of folders and files, why should
+	your computer desktop be any different?
+	
+	Win10 Widgets transforms your desktop from a collection of folders and
+	files to a place where you can find all the information you need, when
+	you need it. Weather, WiFi, battery, music, and more; all available at
+	a glance. 
+	
+	Plus it looks cool! Like those futuristic computers you always see in 
+	the movies (we're looking at you, Iron Man and Minority Report).
+	
+	Unlike widgets before it, Win10 Widgets blends into the background and 
+	makes the information you need the focus of your experience. By 
+	starting from scratch and engineering each widget with an emphasis on 
+	functional simplicity, Win10 Widgets adapts to you instead of the 
+	other way around. Win10 Widgets works with any wallpaper, any screen 
+	size, and uses your unique Windows 10 accent color to adapt to the 
+	personalized experience you've already created. 
+
+	Best of all, there are no programming skills required; everything just 
+	works!
+
+Welcome Widget:
+
+	The first thing you'll see when you load Win10 Widgets is the Welcome 
+	widget. If you've already closed it, no worries! You can always bring 
+	it back by right-clicking the Rainmeter "raindrop" icon in the 
+	notification area (i.e. system tray), selecting 
+	"Skins" -> "Win10 Widgets" -> "Welcome", and clicking "Welcome.ini".
+
+	The Welcome widget is where you have the option to read this document, 
+	watch an intro video, and/or perform a few other actions that are 
+	outlined below:
+
+	Updates! (the green button)
+
+		The first button (the green one) gives you the ability to receive 
+		notifications about future Win10 Widgets updates, tutorials, and 
+		new widgets as soon as they're released. To subscribe, simply 
+		click the green "Send Me Updates!" button and you will be 
+		redirected to a website where you can sign up.
+
+		The Win10 Widgets privacy policy is simple: 
+		"No spam. No sharing your email. Ever. Period."
+
+		You aren't required to sign up, however it is strongly encouraged. 
+		If you don't sign up, you'll miss out on all the awesome 
+		features coming in the the next version of Win10 Widgets!
+	
+	Donate :) (the purple button)
+
+		The second button (the purple one) gives you the ability to donate 
+		to my college fund. If you enjoy my work and are looking for a way 
+		to express your gratitude, please help me pay off my student 
+		loans :)
+		
+		You can read more at http://donate.win10widgets.com
+	
+	Share! (the blue and red buttons)
+
+		The rest of the buttons (the blue and red ones) give you the 
+		ability to share Win10 Widgets on social media. If you enjoy your 
+		new desktop, please consider sharing it with your friends; I'm 
+		sure they'll appreciate the tip!
+		
+	To close the Welcome widget, simply click the "X" in the top right 
+	corner.
+
+	Remember, you can always bring the Welcome widget back by 
+	right-clicking the Rainmeter "raindrop" icon in the notification area 
+	(i.e. system tray), selecting "Skins" -> "Win10 Widgets" -> "Welcome", 
+	and clicking "Welcome.ini". This is useful if you decide at some point 
+	that you'd like to receive updates, donate to my college fund :), or 
+	share Win10 Widgets on social media.
+	
+Adding/Removing Widgets:
+
+	Adding and removing widgets is easy! To add a widget, start by 
+	right-clicking the Rainmeter "raindrop" icon in the notification area 
+	(i.e. system tray) and selecting "Skins" -> "Win10 Widgets". Next, 
+	select the name of the widget you want to add and click the variation 
+	(i.e. size) of your chosen widget to add it to your desktop.
+	
+	To remove a widget, simply right-click it and select "Unload skin." 
+	
+	If, for some reason, you cannot right-click the widget you want to 
+	remove, right-click the Rainmeter "raindrop" icon in the notification 
+	area (i.e. system tray), select the name of the widget you wish to 
+	remove (e.g. "Win10 Widgets/DateTime"), and  select "Unload skin."
+
+Changing Widget Size:
+
+	Each widget offers a selection of various sizes. If you want to change 
+	the size of a widget that is already on your desktop, simply 
+	right-click the widget, select "Variants", and click the size you want 
+	to use.
+
+	If, for some reason, you cannot right-click the widget you want to 
+	resize, right-click the Rainmeter "raindrop" icon in the notification 
+	area (i.e. system tray), select the name of the widget you wish to 
+	resize (e.g. "Win10 Widgets/DateTime"), select "Variants", and click 
+	the size you want to use.
+	
+Positioning Widgets:
+
+	To position a widget, simply click and drag it wherever you like. 
+	Widgets will snap to the edge of your screen, unless this feature has 
+	been disabled. To disable this option, right-click the widget, select 
+	"Settings", and click the "Snap-to-edges" option. The same steps can 
+	be followed to re-enable this option.
+
+	If your widgets aren't able to be dragged, make sure that the Lock 
+	widget isn't in the "locked" state. To "unlock" the lock widget, 
+	simply click it. For more information about the Lock widget, please 
+	see the "Special widgets" section below.
+
+Widget Options:
+
+	Several widgets offer options that allow you to change how the 
+	information provided by the widget is displayed. These options can be 
+	found by right-clicking on the widget and looking under the header 
+	"Custom skin actions".
+	
+	Some examples of these options include:
+	
+	- Date/Time widget:
+		- 12-hour time
+		- 24-hour time
+	- HardDrive widget:
+		- Auto-select drive
+		- Select from available drives
+	- WiFi widget:
+		- Show % signal strength
+		- Hide % signal strength
+	- Lock:
+		- Light icon
+		- Dark icon
+		- Help
+	- Weather:
+		- Auto-location
+		- Set location
+		- Imperial units (F)
+		- Metric units (C)
+		- 12-hour time
+		- 24-hour time
+
+	If, for some reason, you cannot right-click the widget you want to 
+	view the options for, right-click the Rainmeter "raindrop" icon in the 
+	notification area (i.e. system tray), select the name of the widget 
+	you wish to view the options for (e.g. "Win10 Widgets/DateTime"), and 
+	look under the header "Custom skin actions".
+
+Special Widgets:
+
+	The "Lock" and "LayoutSwitcher" widgets are a little different than 
+	the other Win10 Widgets. If you need assistance with these widgets, 
+	there is a "Help" option that can be found using the steps outlined in 
+	the "Widget options" section above. Depending on the status of your 
+	internet connection, the "Help" option will either direct you to a 
+	YouTube video, or a text file like this one.
+
+
+Thats it!
+
+If you're still confused, please watch the following video: 
+http://intro.win10widgets.com	

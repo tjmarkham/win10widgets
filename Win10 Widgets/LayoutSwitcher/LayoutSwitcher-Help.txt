@@ -1,0 +1,142 @@
+; ------------------------------------------------------------------------
+;    _       ___      _______     _       ___     __           __
+;   | |     / (_)___ /  / __ \   | |     / (_)___/ /___  ___  / /______
+;   | | /| / / / __ \/ / / / /   | | /| / / / __  / __ \/ _ \/ __/ ___/
+;   | |/ |/ / / / / / / /_/ /    | |/ |/ / / /_/ / /_/ /  __/ /_(__  ) 
+;   |__/|__/_/_/ /_/_/\____/     |__/|__/_/\__,_/\__, /\___/\__/____/
+;                                               /____/
+;
+;	Win10 Widgets for Rainmeter - LayoutSwitcher (help)
+;		Author  - TJ Markham, http://tjmarkham.com
+;		Website - http://win10widgets.com
+;		Donate  - http://donate.win10widgets.com
+;
+; ------------------------------------------------------------------------
+
+NOTICE:
+
+	You are seeing this text document instead of a YouTube demonstration 
+	video because there was a connection error. Please check your internet 
+	connection and try again if you want to watch the video instead of 
+	reading these instructions. The video is recommended since most people 
+	find it easier to follow. The video can be found at this URL: 
+	http://layoutSwitcherHelp.win10widgets.com
+
+About:
+
+	LayoutSwticher allows you to save two different Rainmeter layouts and 
+	effortlessly switch between them. LayoutSwitcher can automatically 
+	switch between layouts, or you can manually choose which layout to use 
+	at any given time.
+	
+Layout descriptions:
+
+	The first layout ("Layout 1") is meant to be used as a single screen 
+	layout. Most people set "Layout 1" as their laptop layout. The second 
+	layout ("Layout 2") is meant to be used as a dual screen layout. Most 
+	people set "Layout 2" as their "laptop + monitor" layout.
+
+	Summary:
+		Layout 1 = Single screen (e.g. laptop) layout.
+		Layout 2 = Dual screen (e.g. "laptop + monitor") layout.
+
+Appearance:
+
+	LayoutSwitcher is meant to blend into the background. Therefore, its 
+	default state is semi-transparent. When you hover over LayoutSwitcher 
+	with your mouse, it becomes opaque.
+
+	There are two color options to choose from when using LayoutSwitcher: 
+	light (white) and dark (black). These options can be selected by 
+	right-clicking LayoutSwitcher, selecting "Custom skin actions" from 
+	the menu that appears, and selecting either "Light icon" or 
+	"Dark icon" depending on your preference.
+
+	LayoutSwitcher will appear as either a laptop icon or a monitor icon, 
+	depending on the situation. If only one screen is detected, the laptop
+	icon will be shown. If two screens are detected, the monitor icon will
+	be shown.
+
+	Inside each icon will be either an "A", "1", or "2". 
+	
+	The "A" stands for "Auto-layout." When "A" is shown, "Layout 1" will 
+	automatically be loaded when only one screen is detected and 
+	"Layout 2" will be automatically be loaded when two screens are 
+	detected.
+	
+	The "1" stands for "Layout 1" and the "2" stands for "Layout 2". When
+	"1" is shown, "Layout 1" is active. When "2" is shown, "Layout 2" is 
+	active.
+	
+	Summary (symbol key):
+		A = Auto-layout
+		1 = Layout 1
+		2 = Layout 2
+		Laptop icon = One screen detected
+		Monitor icon = Two screens detected
+	
+Setup:
+
+	The first time you use LayoutSwticher you will need to setup and save 
+	your layouts. This is accomplished in two easy steps (per layout):
+
+	Layout 1:
+	1) Arrange your Rainmeter widgets to reflect how you want "Layout 1" 
+	   to appear.
+	2) Right-click the "LayoutSwitcher" widget, select 
+	   "Custom skin actions", and then click "Set Layout 1 (Laptop)". 
+	   This saves your first layout.
+	
+	Layout 2:
+	1) Arrange your Rainmeter widgets to reflect how you want "Layout 2" 
+	   to appear.
+	2) Right-click the "LayoutSwitcher" widget, select 
+	   "Custom skin actions", and then click "Set Layout 2 (Monitor)". 
+	   This saves your second layout.
+
+	Your layouts can be updated at any time by following these same 
+	instructions.
+
+Use:
+
+	Click LayoutSwticher to cycle between "Layout 1", "Layout 2", and 
+	"Auto-layout". 
+	
+	Right-click LayoutSwticher and select "Custom skin actions" to bring 
+	up a list of self-explanatory options:
+	
+	--------------------------
+	Auto-layout
+	Load Layout 1 (Laptop)
+	Load Layout 2 (Monitor)
+	--------------------------
+	Set Layout 1 (Laptop)
+	Set Layout 2 (Monitor)
+	--------------------------
+	Light icon
+	Dark icon
+	--------------------------
+	Help
+	--------------------------
+	
+"Lost" Widget:
+
+	If the Lock widget is loaded but cannot be located (e.g. white icon on 
+	white background), you can right-click the Rainmeter "raindrop" icon 
+	in the notification area (i.e. system tray), select 
+	"Win10 Widgets\Lock", select "Custom skin actions" from the menu that 
+	appears, and change the color of the widget by selecting either 
+	"Light icon" or "Dark icon". This process should assist you in 
+	locating the "lost" widget.
+
+	If the widget is still "lost," you can change your background to a 
+	contrasting solid color and this should make it apparent where the 
+	widget is located. This can be accomplished by right-clicking the 
+	desktop, selecting "Personalize", and choosing "Solid color" from the 
+	"Background" drop-down menu. Then a contrasting color can be chosen from 
+	the resulting color selections.
+
+Thats it!
+
+If you're still confused, please watch the following video: 
+http://layoutSwitcherHelp.win10widgets.com

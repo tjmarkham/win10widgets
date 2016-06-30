@@ -1,0 +1,82 @@
+; ------------------------------------------------------------------------
+;    _       ___      _______     _       ___     __           __
+;   | |     / (_)___ /  / __ \   | |     / (_)___/ /___  ___  / /______
+;   | | /| / / / __ \/ / / / /   | | /| / / / __  / __ \/ _ \/ __/ ___/
+;   | |/ |/ / / / / / / /_/ /    | |/ |/ / / /_/ / /_/ /  __/ /_(__  ) 
+;   |__/|__/_/_/ /_/_/\____/     |__/|__/_/\__,_/\__, /\___/\__/____/
+;                                               /____/
+;
+;	Win10 Widgets for Rainmeter - Lock (help)
+;		Author  - TJ Markham, http://tjmarkham.com
+;		Website - http://win10widgets.com
+;		Donate  - http://donate.win10widgets.com
+;
+; ------------------------------------------------------------------------
+
+NOTICE:
+
+	You are seeing this text document instead of a YouTube demonstration 
+	video because there was a connection error. Please check your internet 
+	connection and try again if you want to watch the video instead of 
+	reading these instructions. The video is recommended since most people 
+	find it easier to follow. The video can be found at this URL: 
+	http://lockHelp.win10widgets.com
+
+About:
+
+	The Lock widget allows you to lock/unlock all of your widgets. Locking 
+	widgets prevents them from being moved by accident, unlocking widgets 
+	allows for them to be moved and re-arranged.
+
+Appearance:
+
+	The Lock widget is meant to blend into the background. Therefore, its 
+	default state is semi-transparent. When you hover over the Lock widget  
+	with your mouse, it becomes opaque.
+	
+	There are two color options to choose from when using the Lock widget: 
+	light (white) and dark (black). These options can be selected by 
+	right-clicking the Lock widget, selecting "Custom skin actions" from 
+	the menu that appears, and selecting either "Light icon" or 
+	"Dark icon" depending on your preference.
+
+	The Lock widget will appear as either a "locked" lock icon or an 
+	"unlocked" lock icon, depending on the situation. If the widgets are 
+	locked, the "locked" lock icon will be shown. If the widgets are not 
+	locked, the "unlocked" lock icon will be shown.
+	
+Use:
+
+	Click the Lock widget to cycle between "locked" and "unlocked" states.
+	
+	Right-click the Lock widget and select "Custom skin actions" to bring 
+	up a list of self-explanatory options:
+	
+	--------------------------
+	Light icon
+	Dark icon
+	--------------------------
+	Help
+	--------------------------
+
+"Lost" Widget:
+
+	If the Lock widget is loaded but cannot be located (e.g. white icon on 
+	white background), you can right-click the Rainmeter "raindrop" icon 
+	in the notification area (i.e. system tray), select 
+	"Win10 Widgets\Lock", select "Custom skin actions" from the menu that 
+	appears, and change the color of the widget by selecting either 
+	"Light icon" or "Dark icon". This process should assist you in 
+	locating the "lost" widget.
+
+	If the widget is still "lost," you can change your background to a 
+	contrasting solid color and this should make it apparent where the 
+	widget is located. This can be accomplished by right-clicking the 
+	desktop, selecting "Personalize", and choosing "Solid color" from the 
+	"Background" drop-down menu. Then a contrasting color can be chosen from 
+	the resulting color selections.
+	
+Thats it!
+
+If you're still confused, please watch the following video: 
+http://lockHelp.win10widgets.com
