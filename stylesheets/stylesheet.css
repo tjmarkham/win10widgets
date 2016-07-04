@@ -517,6 +517,11 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
+.rainmeterButton {
+	width: 90%;
+	max-width: 260px;
+}
+
 .video-container {
     position: relative;
     padding-bottom: 50.7%;
@@ -921,9 +926,6 @@ footer a:hover {
     margin-top: 20px;
     background-image: none;
     border-top: solid 1px #ddd;
-  }
-  aside#sidebar a.button {
-    display: none;
   }
   #main-content h1:before,
   #main-content h2:before,
