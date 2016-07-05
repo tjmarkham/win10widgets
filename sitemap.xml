@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://win10widgets.com/</loc>
+		<lastmod>2016-07-04</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>1.00</priority>
+		<image:image>
+			<image:loc>http://win10widgets.com/images/screenshot.png</image:loc>
+			<image:caption>Win10 Widgets Screenshot</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://win10widgets.com/images/volume.png</image:loc>
+			<image:caption>Volume Widget - Win10 Widgets</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>http://win10widgets.com/images/all-widgets.png</image:loc>
+			<image:caption>Win10 Widgets - All</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://subscribe.win10widgets.com</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://youtube.win10widgets.com</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://donate.win10widgets.com</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://fb.win10widgets.com</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.60</priority></url>
+	<url>
+		<loc>http://tweet.win10widgets.com</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.60</priority>
+	</url>
+	<url>
+		<loc>http://pin.win10widgets.com</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.85</priority>
+	</url>
+	<url>
+		<loc>http://gplus.win10widgets.com</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.60</priority>
+	</url>
+</urlset>
