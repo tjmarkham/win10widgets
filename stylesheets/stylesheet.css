@@ -517,6 +517,13 @@ aside#sidebar p.repo-owner a {
   margin-bottom: 40px;
 }
 
+#message-area {
+	color: #474747;
+	background: #bdddff;
+	margin-top: -8px;
+	margin-bottom: 17px;
+}
+
 .rainmeterButton {
 	width: 90%;
 	max-width: 260px;
