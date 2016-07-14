@@ -529,6 +529,11 @@ aside#sidebar p.repo-owner a {
 	max-width: 260px;
 }
 
+.cleanButton {
+	width: 90%;
+	max-width: 155px;
+}
+
 .video-container {
     position: relative;
     padding-bottom: 50.7%;
