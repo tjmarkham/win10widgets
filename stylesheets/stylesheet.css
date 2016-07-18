@@ -530,8 +530,12 @@ aside#sidebar p.repo-owner a {
 }
 
 .cleanButton {
-	width: 90%;
 	max-width: 155px;
+}
+
+.screenshot {
+	width: 90%;
+	padding-top: 5px;
 }
 
 .video-container {
