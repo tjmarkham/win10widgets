@@ -449,7 +449,7 @@ a:hover {
 
 header {
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 18px;
   font-family: 'Segoe UI light', 'Helvetica Neue', Helvetica, Arial, serif;
   background: linear-gradient(120deg, #0078cf, #002050);
   border-bottom: solid 1px #275da1;
@@ -554,7 +554,7 @@ aside#sidebar p.repo-owner a {
 
 a.buttonBottom {
   position: absolute;
-  top: 90px;
+  top: 87px;
   right: 20px;
   color: #fff;
 }
@@ -905,8 +905,8 @@ footer a:hover {
   }
   a.buttonBottom {
     position: relative;
-    top: 4px;
-    left: 12px;
+    top: 8px;
+    left: 3px;
     color: #fff;
   }
   header a.button {
