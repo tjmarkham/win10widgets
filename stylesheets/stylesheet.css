@@ -524,6 +524,20 @@ aside#sidebar p.repo-owner a {
 	margin-bottom: 17px;
 }
 
+#noThanks {
+	font-size: 10px;
+	display: block;
+	cursor: pointer;
+	padding: 1px 0 1px 0;
+}
+
+.profilePic {
+	float:right; 
+	margin:-25px 7px 0 0; 
+	width: 115px; 
+	border-radius: 50%;
+}
+
 .rainmeterButton {
 	width: 90%;
 	max-width: 260px;
