@@ -2,6 +2,7 @@ $(function() {
 	$( "#dialog" ).dialog({
 		autoOpen: false,
 		modal: true,
+		width: 305,
 		//draggable: false,
 		resizable: false,
 		buttons: {
