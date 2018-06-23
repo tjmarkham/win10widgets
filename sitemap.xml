@@ -5,20 +5,20 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
-		<loc>http://win10widgets.com/</loc>
-		<lastmod>2016-07-04</lastmod>
+		<loc>https://win10widgets.com/</loc>
+		<lastmod>2018-06-22</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.00</priority>
 		<image:image>
-			<image:loc>http://win10widgets.com/images/screenshot.png</image:loc>
+			<image:loc>https://win10widgets.com/images/screenshot.png</image:loc>
 			<image:caption>Win10 Widgets Screenshot</image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://win10widgets.com/images/volume.png</image:loc>
+			<image:loc>https://win10widgets.com/images/volume.png</image:loc>
 			<image:caption>Volume Widget - Win10 Widgets</image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://win10widgets.com/images/all-widgets.png</image:loc>
+			<image:loc>https://win10widgets.com/images/all-widgets.png</image:loc>
 			<image:caption>Win10 Widgets - All</image:caption>
 		</image:image>
 	</url>
